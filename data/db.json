@@ -1,0 +1,558 @@
+{
+  "services": [
+    {
+      "id": "logo-brand-identity",
+      "category": "branding",
+      "categoryLabel": "Branding & Graphic Design",
+      "title": "Logo & Brand Identity Architecture",
+      "description": "Distinctive, memorable visual identities crafted for international reach and long-term recognition.",
+      "deliverables": [
+        "Primary & secondary vector logos",
+        "Color palette & contrast ratios",
+        "Typography guidelines",
+        "Brand book PDF",
+        "All vector & export formats (SVG, PNG, EPS)"
+      ],
+      "turnaround": "4–7 business days",
+      "startingPriceUsd": 149,
+      "status": "available",
+      "icon": "Palette"
+    },
+    {
+      "id": "stationery-business-cards",
+      "category": "branding",
+      "categoryLabel": "Branding & Graphic Design",
+      "title": "Business Stationery & Print Media",
+      "description": "High-end tactile cards, letterheads, invoice templates, and marketing posters ready for print.",
+      "deliverables": [
+        "Print-ready CMYK files with bleed",
+        "Luxury spot-UV / embossing guides",
+        "Digital stationery templates",
+        "Source design files"
+      ],
+      "turnaround": "3–5 business days",
+      "startingPriceUsd": 79,
+      "status": "available",
+      "icon": "CreditCard"
+    },
+    {
+      "id": "social-marketing-posters",
+      "category": "branding",
+      "categoryLabel": "Branding & Graphic Design",
+      "title": "Social Media Graphics & Marketing Posters",
+      "description": "High-impact promotional graphics engineered for digital ads, Instagram grids, and event posters.",
+      "deliverables": [
+        "10–20 high-resolution feed assets",
+        "Story & vertical reel covers",
+        "Ad creative variations",
+        "Figma / editable templates"
+      ],
+      "turnaround": "3–4 business days",
+      "startingPriceUsd": 99,
+      "status": "available",
+      "icon": "Layers"
+    },
+    {
+      "id": "presentation-design",
+      "category": "branding",
+      "categoryLabel": "Branding & Graphic Design",
+      "title": "Pitch Deck & Presentation Design",
+      "description": "Persuasive, clean pitch decks and corporate presentations that impress investors and partners.",
+      "deliverables": [
+        "Custom slide master deck",
+        "Infographics and chart layouts",
+        "Keynote / PPTX / PDF exports",
+        "Interactive transitions"
+      ],
+      "turnaround": "4–6 business days",
+      "startingPriceUsd": 129,
+      "status": "available",
+      "icon": "Presentation"
+    },
+    {
+      "id": "business-websites",
+      "category": "web",
+      "categoryLabel": "Website Design & Development",
+      "title": "Modern Business & Corporate Websites",
+      "description": "Fast, secure, responsive web platforms built with modern tech stacks to establish global authority.",
+      "deliverables": [
+        "Multi-page responsive architecture",
+        "Semantic accessibility & SEO metadata",
+        "CMS / inquiry integration",
+        "Performance score 95+"
+      ],
+      "turnaround": "10–14 business days",
+      "startingPriceUsd": 399,
+      "status": "available",
+      "icon": "Globe"
+    },
+    {
+      "id": "high-converting-landing-pages",
+      "category": "web",
+      "categoryLabel": "Website Design & Development",
+      "title": "Conversion-Focused Landing Pages",
+      "description": "Single-page conversion funnels engineered to transform cold visitors into qualified inquiries.",
+      "deliverables": [
+        "1440px desktop + mobile responsive",
+        "Interactive contact & lead capture",
+        "Analytics & speed optimization",
+        "Zero-friction UX layout"
+      ],
+      "turnaround": "5–7 business days",
+      "startingPriceUsd": 249,
+      "status": "available",
+      "icon": "Zap"
+    },
+    {
+      "id": "portfolio-websites",
+      "category": "web",
+      "categoryLabel": "Website Design & Development",
+      "title": "Creative & Personal Portfolio Websites",
+      "description": "Showcase your creative work, achievements, and case studies with smooth interactive design.",
+      "deliverables": [
+        "Curated project gallery & filters",
+        "Rich modal / case study views",
+        "Contact system & resume viewer",
+        "Domain & deployment setup"
+      ],
+      "turnaround": "6–8 business days",
+      "startingPriceUsd": 219,
+      "status": "available",
+      "icon": "Layout"
+    },
+    {
+      "id": "ecommerce-stores",
+      "category": "web",
+      "categoryLabel": "Website Design & Development",
+      "title": "Boutique Online Stores & E-Commerce",
+      "description": "Modern storefronts for artisanal brands, digital product sellers, and niche retailers.",
+      "deliverables": [
+        "Product catalog & shopping cart",
+        "Secure checkout flow setup",
+        "Inventory & order management",
+        "Mobile-first optimization"
+      ],
+      "turnaround": "14–21 business days",
+      "startingPriceUsd": 499,
+      "status": "available",
+      "icon": "ShoppingBag"
+    },
+    {
+      "id": "website-redesign-maintenance",
+      "category": "web",
+      "categoryLabel": "Website Design & Development",
+      "title": "Website Redesign & Speed Optimization",
+      "description": "Modernize outdated layouts, fix responsiveness issues, and upgrade site security and speed.",
+      "deliverables": [
+        "Complete UI/UX refresh",
+        "Code refactoring & Core Web Vitals audit",
+        "Mobile usability overhaul",
+        "Security & backup review"
+      ],
+      "turnaround": "5–9 business days",
+      "startingPriceUsd": 199,
+      "status": "available",
+      "icon": "RefreshCw"
+    },
+    {
+      "id": "promotional-video-concepts",
+      "category": "ai-content",
+      "categoryLabel": "AI-Assisted Creative Content",
+      "title": "Promotional Video Concepts & Scripts",
+      "description": "AI-assisted concept ideation, scene-by-scene screenplays, and voiceover scripting for digital campaigns.",
+      "deliverables": [
+        "Full commercial storyboard script",
+        "Hook, body & CTA framework",
+        "Audio/visual cue directions",
+        "3 variations for A/B testing"
+      ],
+      "turnaround": "2–3 business days",
+      "startingPriceUsd": 79,
+      "status": "available",
+      "icon": "Video"
+    },
+    {
+      "id": "social-video-production",
+      "category": "ai-content",
+      "categoryLabel": "AI-Assisted Creative Content",
+      "title": "Short-Form Video Production & Reels",
+      "description": "Dynamic vertical videos tailored for TikTok, Instagram Reels, and YouTube Shorts.",
+      "deliverables": [
+        "Custom captions & motion text",
+        "Curated pacing & sound design",
+        "1080x1920 high-bitrate MP4s",
+        "Engaging thumbnail covers"
+      ],
+      "turnaround": "3–5 business days",
+      "startingPriceUsd": 119,
+      "status": "available",
+      "icon": "Film"
+    },
+    {
+      "id": "ai-content-planning",
+      "category": "ai-content",
+      "categoryLabel": "AI-Assisted Creative Content",
+      "title": "Content Strategy & Editorial Calendars",
+      "description": "Data-driven monthly content schedules, caption batches, and hashtag clusters for cross-platform presence.",
+      "deliverables": [
+        "30-day cross-platform content roadmap",
+        "Post copy & caption variations",
+        "Call-to-action hooks",
+        "Performance tracking sheet"
+      ],
+      "turnaround": "3–4 business days",
+      "startingPriceUsd": 89,
+      "status": "available",
+      "icon": "FileText"
+    },
+    {
+      "id": "cv-resume-design",
+      "category": "career",
+      "categoryLabel": "Digital Career Services",
+      "title": "Executive CV & ATS Resume Architecture",
+      "description": "Sleek, ATS-friendly professional resumes designed to position candidates for international roles.",
+      "deliverables": [
+        "ATS-optimized structured PDF",
+        "Editable source document",
+        "Matching cover letter template",
+        "Targeted role keyword alignment"
+      ],
+      "turnaround": "2–3 business days",
+      "startingPriceUsd": 49,
+      "status": "available",
+      "icon": "Award"
+    },
+    {
+      "id": "creator-channel-graphics",
+      "category": "career",
+      "categoryLabel": "Digital Career Services",
+      "title": "Creator Channel Graphics & Personal Branding",
+      "description": "Cohesive branding kit for YouTube creators, podcasters, and online instructors.",
+      "deliverables": [
+        "YouTube/Twitch banner set",
+        "High-CTR thumbnail templates",
+        "Stream overlays & end screens",
+        "Profile iconography kit"
+      ],
+      "turnaround": "3–5 business days",
+      "startingPriceUsd": 69,
+      "status": "available",
+      "icon": "Sparkles"
+    },
+    {
+      "id": "inquiry-lead-automation",
+      "category": "automation",
+      "categoryLabel": "AI Automation",
+      "title": "Smart Business Inquiry Forms & Notification Routers",
+      "description": "Interactive qualification forms that route validated client inquiries directly into email and management spreadsheets.",
+      "deliverables": [
+        "Multi-step qualification logic",
+        "Instant email confirmation trigger",
+        "Spam protection & webhook setup",
+        "Client response notification"
+      ],
+      "turnaround": "4–6 business days",
+      "startingPriceUsd": 189,
+      "status": "available",
+      "icon": "Cpu"
+    },
+    {
+      "id": "workflow-appointment-automation",
+      "category": "automation",
+      "categoryLabel": "AI Automation",
+      "title": "Multi-App Workflow & Lead Management Automation",
+      "description": "Zapier / Make / Webhook integration pipelines connecting your CRM, calendars, and customer communications.",
+      "deliverables": [
+        "Automated pipeline handoffs",
+        "Meeting booking synchronization",
+        "Custom reminder sequences",
+        "Error monitoring & logs"
+      ],
+      "turnaround": "7–10 business days",
+      "startingPriceUsd": 299,
+      "status": "coming-soon",
+      "icon": "GitFork"
+    },
+    {
+      "id": "ai-customer-support-workflows",
+      "category": "automation",
+      "categoryLabel": "AI Automation",
+      "title": "Autonomous Customer Support Workflows",
+      "description": "AI-grounded ticket triaging, automated FAQ responders, and intelligent escalation matrices.",
+      "deliverables": [
+        "Custom knowledge-base setup",
+        "Response accuracy guardrails",
+        "Escalation to human workflow",
+        "Performance telemetry review"
+      ],
+      "turnaround": "Coming soon in Q3",
+      "startingPriceUsd": 499,
+      "status": "coming-soon",
+      "icon": "Bot"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "aether-brand-system",
+      "title": "Aether Studio Identity & Visual System",
+      "category": "Branding",
+      "image": "/src/assets/images/portfolio_branding_showcase_1791906979435.jpg",
+      "description": "Comprehensive brand identity and tactile stationery system engineered for an international architectural studio.",
+      "tools": [
+        "Figma",
+        "Adobe Illustrator",
+        "Photoshop",
+        "Brand Architecture"
+      ],
+      "objective": "Create an authoritative, timeless identity system using high-contrast black basalt and energetic yellow typography.",
+      "deliverables": [
+        "Vector Logo Suite",
+        "Stationery & Business Cards",
+        "Typography Guidelines",
+        "Comprehensive Brand Guidelines Manual"
+      ],
+      "demoUrl": "https://zohaib-ali-portfolio-digital-studio.ai.studio/",
+      "isSampleWork": true,
+      "published": true,
+      "featured": true
+    },
+    {
+      "id": "pixel-flow-saas-platform",
+      "title": "PixelFlow Agency Platform & Dashboard",
+      "category": "Websites",
+      "image": "/src/assets/images/portfolio_web_showcase_1791906980434.jpg",
+      "description": "High-performance web portal and client dashboard featuring project tracking, team workspaces, and dark mode interface.",
+      "tools": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Vite",
+        "Express"
+      ],
+      "objective": "Engineer a responsive, high-speed portal with seamless dark/light styling and intuitive client management.",
+      "deliverables": [
+        "Responsive Web App",
+        "Interactive Client Portal",
+        "Status Tracking System",
+        "SEO Architecture"
+      ],
+      "demoUrl": "https://zohaib-ali-portfolio-digital-studio.ai.studio/",
+      "isSampleWork": true,
+      "published": true,
+      "featured": true
+    },
+    {
+      "id": "lumina-kinetic-creatives",
+      "title": "Lumina Kinetic Brand & AI Visuals",
+      "category": "AI Content",
+      "image": "/src/assets/images/ai_creative_visual_1791906979412.jpg",
+      "description": "AI-assisted dynamic creative suite and 3D visual storytelling assets for a global tech launch campaign.",
+      "tools": [
+        "Gemini AI",
+        "Adobe After Effects",
+        "Cinema 4D",
+        "Motion Graphics"
+      ],
+      "objective": "Demonstrate cutting-edge golden geometric ribbon aesthetics to visualize AI transformation and creative flow.",
+      "deliverables": [
+        "Promo Video Visual Concepts",
+        "High-Bitrate Social Creatives",
+        "Campaign Key Visuals",
+        "Story & Reel Motion Templates"
+      ],
+      "demoUrl": "https://zohaib-ali-portfolio-digital-studio.ai.studio/",
+      "isSampleWork": true,
+      "published": true,
+      "featured": true
+    },
+    {
+      "id": "za-digital-workspace",
+      "title": "ZA Digital Studio Collaborative Hub",
+      "category": "UI/UX",
+      "image": "/src/assets/images/hero_digital_studio_1791906979659.jpg",
+      "description": "Spatial and digital design conceptualization for modern hybrid creative studios with multi-screen project workstations.",
+      "tools": [
+        "Figma",
+        "3D Architectural Staging",
+        "Design Systems"
+      ],
+      "objective": "Establish a futuristic yet practical creative studio environment uniting human design craft and AI-assisted workflows.",
+      "deliverables": [
+        "Studio Design Guidelines",
+        "Multi-Display Dashboard Layouts",
+        "Ergonomic Workspace Layout"
+      ],
+      "demoUrl": "https://zohaib-ali-portfolio-digital-studio.ai.studio/",
+      "isSampleWork": true,
+      "published": true,
+      "featured": false
+    }
+  ],
+  "pricing": [
+    {
+      "id": "starter-design",
+      "name": "Starter Design",
+      "subtitle": "Essential visual presence for social media and marketing campaigns",
+      "priceUsd": 149,
+      "turnaroundDays": "3–5 business days",
+      "popular": false,
+      "includes": [
+        "Defined set of 8 custom social media graphics",
+        "One clearly specified revision allowance round",
+        "Final agreed formats: High-res PNG, JPG & editable source files",
+        "Color palette alignment with brand guidelines",
+        "Direct communication channel with designer"
+      ],
+      "excludes": [
+        "Full brand identity system or logo redesign",
+        "Video production or motion graphics",
+        "Website coding or hosting"
+      ]
+    },
+    {
+      "id": "brand-starter",
+      "name": "Brand Starter",
+      "subtitle": "Complete foundational identity for new businesses and startups",
+      "priceUsd": 299,
+      "turnaroundDays": "5–8 business days",
+      "popular": true,
+      "includes": [
+        "2 distinct logo concept directions to choose from",
+        "Finalized primary logo with vertical & horizontal lockups",
+        "Curated brand color palette (HEX, RGB, CMYK)",
+        "Typography pairing & hierarchy guidelines",
+        "Basic brand asset pack (favicons, social avatars, letterhead)",
+        "Vector master files (SVG, EPS, PDF, high-res PNG)"
+      ],
+      "excludes": [
+        "Full stationery print production runs",
+        "Custom web design & development",
+        "Complex 3D rendering"
+      ]
+    },
+    {
+      "id": "website-starter",
+      "name": "Website Starter",
+      "subtitle": "High-impact, conversion-focused landing page or portfolio",
+      "priceUsd": 499,
+      "turnaroundDays": "7–12 business days",
+      "popular": false,
+      "includes": [
+        "Clearly scoped landing page or portfolio layout",
+        "Responsive design tested across desktop, tablet, and mobile",
+        "Interactive project inquiry or contact form",
+        "Basic search-engine metadata (SEO) & OpenGraph cards",
+        "Performance-optimized speed & clean semantic code",
+        "14 days of post-launch technical support"
+      ],
+      "excludes": [
+        "Custom multi-vendor e-commerce or marketplace backend",
+        "Paid third-party API subscription costs",
+        "Ongoing monthly retainer maintenance"
+      ]
+    },
+    {
+      "id": "custom-project",
+      "name": "Custom Project",
+      "subtitle": "Tailored enterprise platforms, AI workflows, and multi-service packages",
+      "priceUsd": 899,
+      "isCustomQuote": true,
+      "turnaroundDays": "Scoped per project",
+      "popular": false,
+      "includes": [
+        "Multi-page web applications or custom digital portals",
+        "AI creative content pipelines & short-form video suites",
+        "Custom workflow automation & CRM lead routing",
+        "Dedicated milestone reviews & project management",
+        "Priority turnaround schedule and custom SLAs"
+      ],
+      "excludes": [
+        "Undefined scope creep beyond agreed project brief"
+      ]
+    }
+  ],
+  "settings": {
+    "founderName": "Zohaib Ali",
+    "brandName": "ZA DIGITAL STUDIO",
+    "tagline": "Your Vision. Our Creativity. Global Impact.",
+    "heroHeadline": "Creative Digital Solutions for a Global World.",
+    "heroSubtext": "We help businesses build a stronger online presence through thoughtful design, modern websites, and AI-assisted creative solutions.",
+    "existingPortfolioUrl": "https://zohaib-ali-portfolio-digital-studio.ai.studio/",
+    "businessEmail": "zohaibalioffical12@gmail.com",
+    "messagingLink": "https://wa.me/923000000000",
+    "linkedinUrl": "https://linkedin.com/in/zohaib-ali",
+    "instagramUrl": "https://instagram.com/zadigitalstudio",
+    "facebookUrl": "https://facebook.com/zadigitalstudio",
+    "behanceUrl": "https://behance.net/zohaib-ali"
+  },
+  "inquiries": [
+    {
+      "clientName": "Marcus Vance",
+      "businessEmail": "marcus@vancegroup.co",
+      "brandName": "Vance Group",
+      "country": "Canada",
+      "serviceId": "business-websites",
+      "serviceName": "Modern Business & Corporate Websites",
+      "budgetRangeUsd": "$3,000 - $6,000",
+      "desiredDeadline": "1 month",
+      "projectDescription": "We need a clean international corporate website with responsive speed and client portal integration.",
+      "referenceLinks": "",
+      "privacyConsent": true,
+      "id": "inq_1791908437899_insna",
+      "createdAt": "2026-10-13T16:20:37.899Z",
+      "status": "in_review",
+      "adminNotes": "Requirements reviewed. Preparing proposal breakdown."
+    },
+    {
+      "id": "inq_sample_01",
+      "clientName": "Sarah Jenkins",
+      "businessEmail": "sarah@aurorastudios.co",
+      "brandName": "Aurora Studios",
+      "country": "United Kingdom",
+      "serviceId": "logo-brand-identity",
+      "serviceName": "Logo & Brand Identity Architecture",
+      "budgetRangeUsd": "$500 - $1,000",
+      "desiredDeadline": "2 weeks",
+      "projectDescription": "We are launching an international boutique interior design agency and need a minimal, high-end visual brand and identity system.",
+      "referenceLinks": "https://aurora-concept.example.com",
+      "privacyConsent": true,
+      "createdAt": "2026-10-10T14:20:00Z",
+      "status": "accepted",
+      "adminNotes": "Initial brief reviewed. Scheduled discovery kickoff call."
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_01",
+      "inquiryId": "inq_sample_01",
+      "sender": "agency",
+      "senderName": "Zohaib Ali (Founder)",
+      "message": "Welcome to ZA DIGITAL STUDIO! We have received your brand identity brief and started concept exploration.",
+      "timestamp": "2026-10-11T09:15:00Z"
+    }
+  ],
+  "activityLogs": [
+    {
+      "id": "log_1791908514597_zx8s",
+      "action": "Updated Inquiry Status",
+      "timestamp": "2026-10-13T16:21:54.597Z",
+      "details": "Marked Marcus Vance (#inq_1791908437899_insna) as in_review"
+    },
+    {
+      "id": "log_1791908437899_lebd",
+      "action": "New Project Inquiry Received",
+      "timestamp": "2026-10-13T16:20:37.899Z",
+      "details": "From Marcus Vance (Vance Group) for Modern Business & Corporate Websites"
+    },
+    {
+      "id": "log_01",
+      "action": "System Initialized",
+      "timestamp": "2026-10-13T16:18:46.692Z",
+      "details": "ZA DIGITAL STUDIO secure full-stack backend initialized."
+    }
+  ],
+  "adminConfig": {
+    "email": "zohaibalioffical12@gmail.com",
+    "passwordSecret": "ZA-Studio2026!"
+  }
+}
